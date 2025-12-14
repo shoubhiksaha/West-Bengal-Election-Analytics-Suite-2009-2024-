@@ -6,7 +6,7 @@ West Bengal Election Analytics Suite (2009–2024) A full-stack analytics soluti
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Engineering-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 📊 [View Live Dashboard on Tableau Public](YOUR_LINK_HERE)
+### 📊 [View Live Dashboard on Tableau Public](https://public.tableau.com/shared/XBH7D9NHD?:display_count=n&:origin=viz_share_link)
 
 ## 📖 Project Overview
 This project is an end-to-end analytics solution designed to analyze historical voting trends in West Bengal (2009–2024) and simulate future scenarios for the 2026 Assembly Elections.
@@ -52,21 +52,9 @@ If you want to reproduce the data engineering steps:
     python ETL_Data_Transformation.py
     ```
 
-## 📸 Dashboard Screenshots
-
-### 1. The Scenario Builder (Swing Analysis)
-*Users can adjust the "Swing Slider" to see how a 5% shift in votes changes the government.*
-![Scenario Builder Placeholder](Link_to_your_screenshot_1)
-
-### 2. True Vote Share Analysis
-*Comparison of actual party strength including the "Hidden" third-party vote.*
-![Vote Share Placeholder](Link_to_your_screenshot_2)
 
 ## 👤 Author
 **Shoubhik Saha**
-* **Role:** Data Analyst & Engineer
-* **Focus:** Geopolitics, Critical Minerals, & Election Analytics
-* [LinkedIn Profile](Your_LinkedIn_Link) | [Portfolio](Your_Portfolio_Link)
 
 ---
 *Note: This project is for educational and analytical purposes. Data is sourced from the Election Commission of India (ECI).*
