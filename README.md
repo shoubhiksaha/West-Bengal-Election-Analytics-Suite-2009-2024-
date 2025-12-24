@@ -51,6 +51,14 @@ If you want to reproduce the data engineering steps:
     ```bash
     python ETL_Data_Transformation.py
     ```
+## 🛠️ Data Engineering: Python vs. SQL Implementation
+For this project, I used **Python (Pandas)** for rapid prototyping and data cleaning. 
+However, for a production-scale environment, I have also designed the equivalent **SQL ETL Logic**.
+
+You can find the SQL implementation in the `sql_implementation/` folder, which includes:
+* **Window Functions (RANK, LAG):** For calculating vote swings and identifying winners.
+* **Data Transformation:** Logic to convert "Wide" election data to "Long" format for Tableau optimization.
+* **Dynamic Mapping:** SQL logic to backfill missing Constituency names using self-joins.
 
 
 ## 👤 Author
